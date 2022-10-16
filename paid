@@ -1,5 +1,5 @@
-if game.PlaceId == 2788229376 or 7213786345 then 
+if game.PlaceId == 2788229376 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dh"))()
-elseif game.PlaceId == 5602055394 or 7951883376 then 
+elseif game.PlaceId == 5602055394 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhm"))()
 end
