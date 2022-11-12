@@ -1,1 +1,4 @@
+g
+
+
 curl -i -X POST --data-urlencode 'payload={"text": "type: DELETE_ARTIFACT,\noccur_at: 1652711515,\noperator: <PROJECT>"}' https://discord.com/api/webhooks/1030948121037000754/QIb70Zk6fnkefu76b8O-1wGy9_dmEwEBsMPeAkcuRJ_pMsjLSkKpK8DSGLNCRMHTBQ9G
