@@ -1,13 +1,13 @@
 if game.PlaceId == 2788229376 then 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dh"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/da%20hood"))()
     elseif game.PlaceId == 7213786345 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dh"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/da%20hood"))()
 elseif game.PlaceId == 5602055394 then 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhm"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/da%20hood%20modded"))()
 elseif game.PlaceId == 7951883376 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhm"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/da%20hood%20modded"))()
 elseif game.PlaceId == 9824221333 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhaimtrainer"))()
 elseif game.PlaceId == 9825515356 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/hoodcustoms"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/hood%20customs"))()
 end
