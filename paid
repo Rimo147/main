@@ -9,5 +9,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/mai
 elseif game.PlaceId == 9824221333 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhaimtrainer"))()
 elseif game.PlaceId == 9825515356 then 
-print("coming soon!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/hoodcustoms"))()
 end
