@@ -10,6 +10,4 @@ elseif game.PlaceId == 9824221333 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/osiris/main/dhaimtrainer"))()
 elseif game.PlaceId == 9825515356 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/hood%20customs"))()
-elseif game.PlaceId == 10773759206 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimo147/osiris/main/da%20hood"))()
 end
