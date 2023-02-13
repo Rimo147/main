@@ -1,1 +1,1 @@
-not out yet
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/341a3dd13f06f9165feee966ad9dc417.lua"))()
