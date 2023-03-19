@@ -1,6 +1,8 @@
-return {
+Whitelisted = {
       127648799,
       1176017047,
       14213553,
       371768392
    }
+
+return Whitelisted
